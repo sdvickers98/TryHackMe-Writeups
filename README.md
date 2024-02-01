@@ -2,6 +2,8 @@
 
 These are hand-written, bullet-point style writeups. I made these mostly as a reference for myself for when I forget how I solved a certain problem in the past, so they are written in a way that assumes basic knowledge of how to use certain tools and techniques (John the ripper, hydra, enumeration, etc.).
 
+Also, please excuse my bad handwriting.
+
 1. [Bounty Hacker](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/BounterHacker.md)
 2. [Brooklyn 99](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/Brooklyn99.md)
 3. [Daily Bugle](https://github.com/sdvickers98/TryHackMe-Writeups/blob/main/DailyBugle.md)
